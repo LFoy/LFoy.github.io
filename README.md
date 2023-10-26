@@ -4,30 +4,10 @@ title: About
 permalink: /about/
 ---
 
-## Theme Monos
-> Simple and lightweight theme for Jekyll
+## 포이
+> 커리어 전환을 꿈꾸는 사람
 
-### Features
-- Responsive.
-- Syntax Highlight
-- Most optimized theme for tech blog.
-- Lightweight with minimum stylesheet.
-- Easy to customize.
-- Offers category menu.
+### 목록
+- 개발자로 향하는 걸음마
+- 4년 간 여의도에서 IT 직원으로 일한 소회
 
-### _config.yml
-> Code block will look like this.
-```yml
-highlighter-theme: monokai //you can change your syntax color scheme.
-date_format: "%Y-%M-%D" //and date format.
-```
-
-### Screenshots
-#### Page
-![alt text](/public/img/screenshot-1.png)
-#### Articles
-![alt text](/public/img/screenshot-2.png)
-#### Page - Mobile
-![alt text](/public/img/screenshot-m1.png)
-#### Page - Articles
-![alt text](/public/img/screenshot-m2.png)
